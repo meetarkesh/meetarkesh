@@ -8,13 +8,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=110&color=8B5CF6&lines=AI+Engineer+%7C+Software+Engineer;Building+Intelligent+Products+with+LLMs;Full+Stack+Developer+%7C+ML+Systems+Engineer;Open+to+Software+Engineering+%26+AI+Opportunities"/>
+<img src="https://readme-typing-svg.demolab.com?cgfont=Inter&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=110&color=8B5CF6&lines=AI+Engineer+%7C+Software+Engineer;Building+Intelligent+Products+with+LLMs;Full+Stack+Developer+%7C+ML+Systems+Engineer;Open+to+Software+Engineering+%26+AI+Opportunities"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/B.E.-Electronics%20%26%20Communication-5B21B6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BMS%20College%20of%20Engineering-4338CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-3.57%2F4-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/gpa-3.57%2F4-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Merit%20Scholar-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Oracle%20Certified-AI%20Professional-4F46E5?style=for-the-badge"/>
 
