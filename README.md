@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/B.E.-Electronics%20%26%20Communication-5B21B6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BMS%20College%20of%20Engineering-4338CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-7.81%2F10-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-3.57%2F4-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Merit%20Scholar-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Oracle%20Certified-AI%20Professional-4F46E5?style=for-the-badge"/>
 
