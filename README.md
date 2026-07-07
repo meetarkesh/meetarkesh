@@ -629,47 +629,6 @@ Collaborated with product and ML teams to improve the document-scanning experien
 <img src="https://raw.githubusercontent.com/meetarkesh/meetarkesh/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
-> **Note:** Enable the GitHub Action from **Platane/snk** after creating your profile repository to generate the snake animation automatically.
-
----
-
-# Current Focus
-
-```yaml
-name: Arkeis M.C.B
-
-currently:
-
-  learning:
-    - Distributed Systems
-    - Advanced System Design
-    - AI Agents
-    - Multi-Agent Architectures
-    - MLOps
-    - Cloud Native Engineering
-
-  building:
-    - VocaMind
-    - AI SaaS Products
-    - Full Stack Applications
-    - Production AI Systems
-
-  exploring:
-    - Agentic AI
-    - LLM Infrastructure
-    - Voice AI
-    - Autonomous Workflows
-    - RAG Systems
-
-  open_to:
-    - Software Engineering Roles
-    - AI Engineering Roles
-    - Machine Learning Roles
-    - Backend Engineering
-    - Open Source Collaboration
-```
-
 ---
 
 # Let's Connect
